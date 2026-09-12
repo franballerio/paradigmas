@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "8ab66ff4199e9e08",
+    "type": "split",
+    "children": [
+      {
+        "id": "34442df62055f51d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1e0eff15c0faaa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "apuntes/Clases/Clase 1 - OOP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clase 1 - OOP"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3eb65c19e851b28",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e472e85a27799d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73bb6d577bcb2a6c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "479bca247898674e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d1d57e35599150ee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9140e7e948775fe6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9f4da6ff913c604",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20ba5acd39dcd8d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "apuntes/img/diagrama_de_secuencias.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "bde4616bf04d85e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "apuntes/img/diagrama_de_secuencias.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7dda74d74e86cd0c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3870a5935ace2f02",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ea3a30a1a4363b92",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "apuntes/img/diagrama_de_secuencias.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b1e0eff15c0faaa8",
+  "lastOpenFiles": [
+    "apuntes/Clases/Clase 3 - Diseno.md",
+    "apuntes/Clases/Clase 1 - OOP.md",
+    "apuntes/img/composicion_vs_herencia.png",
+    "apuntes/Apunte 1 - Programación Orientada a Objetos.pdf",
+    "apuntes/Clases/Clase 1 - Presentacion.md",
+    "apuntes/Clases/Clase 1 - OOP.md~",
+    "apuntes/img/diagrama_de_secuencias.png",
+    "apuntes/img",
+    "apuntes/img/diagrama_de_clases.png",
+    "apuntes/Templates/Template Clase.md",
+    "apuntes/Clase 1 - OOP.md",
+    "apuntes/Clases",
+    "apuntes/Templates"
+  ]
+}
