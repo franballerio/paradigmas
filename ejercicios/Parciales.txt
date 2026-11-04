@@ -1,0 +1,8 @@
+Respeta Open/Closed pues:
+	- cerrado a la modif: no necesito modificar nada para agregar Servicio.
+	- abierto a la extension: el sistema es extensible simplemente creando nuevas clases que implementen Vendible.
+Por polimorfismo, al Servicio implementar Vendible, Combo podra consultar getPrecio() sin problema pues depende de Vendible y no de una clase concreta.
+
+1. Característica de JavaFX: Se aprovecha el mecanismo de Property Binding a través del método .bind().   
+2. En términos de POE: Al enlazar label.textProperty() con slider.valueProperty() (bind), JavaFX implementa el patron observer. Cuando el usuario desplaza el slider, se genera un evento de cambio de valor; el listener reacciona a este cambio, recalcula la expresión formateada y actualiza automáticamente el valor de textProperty sin necesidad de escribir manejadores de eventos manuales.   
+3. En términos de PG: Al actualizarse la propiedad del nodo Label, el Scene Graph se encarga de redibujar de forma reactiva y en tiempo real el texto visible en pantalla con el formato especificado ("Valor: X"), manteniendo la vista sincronizada con el estado del control.   
