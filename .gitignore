@@ -38,4 +38,8 @@ build/
 ### Mac OS ###
 .DS_Store
 
+<<<<<<< HEAD
 tp1/
+=======
+tp1*/
+>>>>>>> 390cfcfb03cf41b6f0875c2d1c30af2eebd15071
