@@ -11,4 +11,4 @@
          (* minutos 60)
           segundos))
 
-(segundos 0 0 0 1)
+(println (segundos 1 10 0 0))

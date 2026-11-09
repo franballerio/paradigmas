@@ -11,3 +11,11 @@ pom.xml.asc
 /.prepl-port
 .hgignore
 .hg/
+.clj-kondo/
+doc/
+resources/
+CHANGELOG.md
+LICENSE
+README.md
+test/
+
