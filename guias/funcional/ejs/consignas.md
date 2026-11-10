@@ -132,7 +132,7 @@ Definir la función `profundidad` que calcule el nivel máximo de anidamiento de
 
 Comenzando en la esquina superior izquierda de una grilla de $M \times N$ casillas, y con la restricción de moverse únicamente hacia la **derecha** (`d`) o hacia **abajo** (`a`), calcular todas las rutas posibles hasta la esquina inferior derecha.
 
-Definir la función `rutas` que reciba las dimensiones de la grilla ($M$ filas y $N$ columnas) y devuelva una colección con todas las trayectorias posibles representadas como cadenas.
+Definir la función `rutas` que reciba las dimensiones de la grilla ( $M$ filas y $N$ columnas) y devuelva una colección con todas las trayectorias posibles representadas como cadenas.
 
 * **Firma:** `(rutas m n)`
 * **Ejemplos:**

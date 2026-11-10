@@ -4,7 +4,6 @@
   (cond
     (not (coll? l)) 0
     (empty? l) 0
-    :else (inc ())
-    ))
+    :else (inc (apply max 0 (map profundidad l)))))
 
-(println (profundidad '((2))))
+(println (profundidad '(((((((2)))))))))
