@@ -5,10 +5,7 @@ target/
 .kotlin
 
 ### IntelliJ IDEA ###
-.idea/modules.xml
-.idea/jarRepositories.xml
-.idea/compiler.xml
-.idea/libraries/
+.idea/
 *.iws
 *.iml
 *.ipr
@@ -38,8 +35,27 @@ build/
 ### Mac OS ###
 .DS_Store
 
-<<<<<<< HEAD
-tp1/
-=======
-tp1*/
->>>>>>> 390cfcfb03cf41b6f0875c2d1c30af2eebd15071
+PARADIGWENT/
+
+### guias/funcional/ejs (Leiningen) ###
+guias/funcional/ejs/target/
+guias/funcional/ejs/classes/
+guias/funcional/ejs/checkouts/
+guias/funcional/ejs/profiles.clj
+guias/funcional/ejs/pom.xml
+guias/funcional/ejs/pom.xml.asc
+guias/funcional/ejs/*.jar
+guias/funcional/ejs/*.class
+guias/funcional/ejs/.lein-*
+guias/funcional/ejs/.nrepl-port
+guias/funcional/ejs/.prepl-port
+guias/funcional/ejs/.hgignore
+guias/funcional/ejs/.hg/
+guias/funcional/ejs/.clj-kondo/
+guias/funcional/ejs/doc/
+guias/funcional/ejs/resources/
+guias/funcional/ejs/CHANGELOG.md
+guias/funcional/ejs/LICENSE
+guias/funcional/ejs/README.md
+guias/funcional/ejs/test/
+
